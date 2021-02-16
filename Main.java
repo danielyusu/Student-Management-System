@@ -8,8 +8,7 @@ public class Main extends javax.swing.JFrame {
         2 ile baslayanlar: listeleme ve arama yapiyor.
         3 ile baslayanlar: derse ekleme, dersten cikarma ve bir kisinin tum derslerini gosterme islemini yapiyor.
         
-        Onceki odevlerimi intellij'de yapmistim, ama gorsellestirme icin ordaki bana daha komplike geldi, simdi netbeans'de yaptım.
-        bu nedenle classlarım ordakilerle tamamen ayni degil, bastan yarattim.
+        
     
     */
 
