@@ -2,7 +2,7 @@ package abschluss;
 
 
 public class Main extends javax.swing.JFrame {
-    /*  Yusuf Daniel Turkoglu
+    /*  Yusuf Daniel Turkoglu 170504039
        
         Her sinifi ilk olarak 3 e ayirdim. 1 ile baslayanlar: ekleme, silme ve guncelleme yapiyor.
         2 ile baslayanlar: listeleme ve arama yapiyor.
